@@ -39,4 +39,5 @@ The idea is simple. I wanted to create a browser plugin that allows people to ad
 - [User-testing report](https://docs.google.com/document/d/1HXS9-yEF9UxBuTCCH33cZXOFPmjlKXit1ERgV0UB_WQ/edit?usp=sharing)
 - [Concept video](https://drive.google.com/file/d/1RPQjNWp2uMqE7Hnb-3ZBaIS3kmLU6ZHE/view?usp=sharing)
 - [Landing page](https://drive.google.com/file/d/1r4xbrJLFFxiWhsBQr9BgUYCD_2-_9Cdt/view?usp=sharing)
-- [Summative pitch](https://docs.google.com/presentation/d/1aRTGlMprpjoMP5wN4-XGm7Tcs5f0sNd4Lroo4v7SJPU/edit?usp=sharing)
+- [Formative Presentation](https://docs.google.com/presentation/d/1UFWPVZ0e6x9jcK25rD4Z_9HPAkn1IW7-oWLlj8RZ7ig/edit?usp=sharing)
+- [Summative Presentation](https://docs.google.com/presentation/d/1aRTGlMprpjoMP5wN4-XGm7Tcs5f0sNd4Lroo4v7SJPU/edit?usp=sharing)
