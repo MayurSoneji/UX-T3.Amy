@@ -58,7 +58,7 @@ Week 7: [UX choreography](https://medium.com/@m.soneji98/ux-choreography-da6e84c
 - [Self Assesment](https://docs.google.com/document/d/1G8e8L8a1BrV3C8b4ild98HEWfuCcZ-3S2cvf-3rJ9Ic/edit?usp=sharing)
 
 
-# Term 3
+# Term 3 - Profiler
 
 ## Blogs
 
