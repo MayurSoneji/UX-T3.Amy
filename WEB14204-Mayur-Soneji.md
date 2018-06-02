@@ -32,7 +32,7 @@ The idea is simple. I wanted to create a browser plugin that allows people to ad
 - [Personal filter bubbles](https://drive.google.com/file/d/1MYbRtffGsdV35Hdsva8e2KudA1pixsum/view?usp=sharing)
 - [10 ideas for my digital object](https://docs.google.com/document/d/1UKCp7R3kvFt8VxXGnz_josBHCu-wdgd4kRUE7w5Ahb8/edit?usp=sharing)
 - [Concept one-pager of my chosen idea](https://drive.google.com/file/d/18XnxSb0d4r1tkmWAaHeXrX0F8E7VAN5h/view?usp=sharing)
-- [Interviews](https://docs.google.com/document/d/1GcBuKNp3pvLbsZjQXGx8OJTtTAC6lOCW7G2Wb05QxeA/edit?usp=sharing)
+- [Interviews & User Testing Feedback](https://docs.google.com/document/d/1GcBuKNp3pvLbsZjQXGx8OJTtTAC6lOCW7G2Wb05QxeA/edit?usp=sharing)
 - [Paper prototypes](https://drive.google.com/drive/folders/1f09ndvaCa6AzhkZxgQH6BlMiqSE-Jia8?usp=sharing)
 - [Version 1 of digital prototype](https://marvelapp.com/3fi9626/screen/42765123)
 - [Version 2 of digital prototype](https://marvelapp.com/3fi9626/screen/42765521)
