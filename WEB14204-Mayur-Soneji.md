@@ -57,6 +57,26 @@ Week 7: [UX choreography](https://medium.com/@m.soneji98/ux-choreography-da6e84c
 
 - [Self Assesment](https://docs.google.com/document/d/1G8e8L8a1BrV3C8b4ild98HEWfuCcZ-3S2cvf-3rJ9Ic/edit?usp=sharing)
 
+### Changes
+
+- User testing Report has been changed to be more specific.
+
+- Blogs has been proof read and changed.
+
+- Competitor Analysis has now been changed to reflect the questions in class.
+
+- Wireframes has now got a flow with the screens, it is labelled 'UX Map With Wireframes' above.
+
+- Wireframes have real content within it now.
+
+- Invision prototype has been updated with the real content and the navigation has been checked on pages.
+
+- Correct elevator pitch submitted.
+
+- Concept Video has a voiceover.
+
+- Presentation style is now using the colours from wireframe.
+
 
 # Term 3 - Profiler
 
