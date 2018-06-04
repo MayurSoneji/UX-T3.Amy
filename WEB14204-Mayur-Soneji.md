@@ -77,6 +77,8 @@ Week 7: [UX choreography](https://medium.com/@m.soneji98/ux-choreography-da6e84c
 
 - Presentation style is now using the colours from wireframe.
 
+- Elevator pitch updated.
+
 
 # Term 3 - Profiler
 
